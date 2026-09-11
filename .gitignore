@@ -1,0 +1,18 @@
+dns_logs.csv 
+alerts.log 
+*.pcap 
+__pycache__/ 
+*.exe 
+*.zip 
+php/ 
+password_checker/ 
+password_cracker/ 
+credential_harvester.py 
+fake_login.html 
+"facebook fake_login.html" 
+social_login_simulation.html 
+capture_login.py 
+*.txt 
+bad_signatures.txt 
+facebook*.html 
+index.php 
